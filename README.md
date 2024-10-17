@@ -9,9 +9,13 @@ This project is my **Final Project for Udacity's Generative AI with AWS course**
 **Fine-Tune the Model**: Utilize **Amazon SageMaker** and other AWS tools to customize the pre-trained Llama 2 7B model for the financial domain.
 
 **Domain Expertise**: Train the model on a financial dataset, enhancing its understanding of finance-specific language and concepts.
+
 **AWS Tools**: Gained hands-on experience with **Amazon SageMaker** within a **$25 budget**.
+
 **Trained Model**: A fine-tuned language model proficient in the financial domain.
+
 **Training the Model**: Set up an AWS environment, deployed Amazon SageMaker, and fine-tuned the Meta Llama 2 7B model within the course's budget constraints.
+
 
 
 ## Conclusion
